@@ -9,7 +9,7 @@
      <!-- Required meta tags -->
      <meta charset="utf-8">
      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-     <title> DEFI-Pros - Investment Plan</title>
+     <title> Smartintrest - Investment Plan</title>
      <meta name="title" Content="Creativewealth - Investment Plan">
 
      <meta name="description" content="HYIPLab - Complete HYIP Investment System . Most Advanced HYIP Investment System Script in codecanyon.\\n\\nhyip, bitcoin, investment,  hyip business, hyip script, best hyip, buy hyip script, advanced hyip script, hyip software, high yield investment program, hyip manager, hyip manager script, cheap hyip script, reliable hyip, secure hyip script, php hyip script, new hyip script, hyip program">
@@ -20,9 +20,9 @@
      <link rel="apple-touch-icon" href="assets/images/logoIcon/logo.png">
      <meta name="apple-mobile-web-app-capable" content="yes">
      <meta name="apple-mobile-web-app-status-bar-style" content="black">
-     <meta name="apple-mobile-web-app-title" content="Creativewealth - Investment Plan">
+     <meta name="apple-mobile-web-app-title" content="Smartintrest - Investment Plan">
 
-     <meta itemprop="name" content="Creativewealth - Investment Plan">
+     <meta itemprop="name" content="Smartintrest - Investment Plan">
      <meta itemprop="description" content="HYIPLab - Complete HYIP Investment System . Most Advanced HYIP Investment System Script in codecanyon.\\n\\nhyip, bitcoin, investment,  hyip business, hyip script, best hyip, buy hyip script, advanced hyip script, hyip software, high yield investment program, hyip manager, hyip manager script, cheap hyip script, reliable hyip, secure hyip script, php hyip script, new hyip script, hyip program">
      <meta itemprop="image" content="assets/images/seo/633eef9a9b3161665068954.jpg">
 
@@ -109,7 +109,7 @@
                               </button>
                               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                                    <ul class="navbar-nav main-menu ms-auto">
-                                        <li> <a href="index.php">Home</a></li>
+                                        <li> <a href="../index.php">Home</a></li>
                                         <li><a href="../about/index.php">About</a></li>
                                         <li><a href="plan.php">Plan</a></li>
 

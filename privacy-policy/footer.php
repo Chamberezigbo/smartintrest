@@ -229,7 +229,7 @@
                                                   <div class="elementor-widget-wrap elementor-element-populated">
                                                        <div class="elementor-element elementor-element-6dce124 elementor-widget elementor-widget-text-editor" data-id="6dce124" data-element_type="widget" data-widget_type="text-editor.default">
                                                             <div class="elementor-widget-container">
-                                                                 <p>© Copyright, 2023 Defi Pros . All Rights Reserved</p>
+                                                                 <p>© Copyright, 2024 smartintrest . All Rights Reserved</p>
                                                             </div>
                                                        </div>
                                                   </div>
@@ -954,6 +954,7 @@
 <script src='../wp-content/plugins/elementor-pro/assets/js/elements-handlers.min007f.js?ver=3.10.2' id='pro-elements-handlers-js'></script>
 <script src='../wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min007f.js?ver=3.10.2' id='e-sticky-js'></script>
 <script src="//code.tidio.co/gaqtcndjz4qfl8k3rujah2oibjsxeobt.js" async></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
 <!-- Mirrored from creativewealth.ltd/about/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 11 May 2023 11:47:10 GMT -->

@@ -17,8 +17,8 @@ include("header.php");
                                                        <div class="elementor-element elementor-element-490a82e elementor-hidden-mobile elementor-widget elementor-widget-image" data-id="490a82e" data-element_type="widget" data-widget_type="image.default">
                                                             <div class="elementor-widget-container">
                                                                  <img decoding="async" width="534" height="683" src="wp-content/uploads/2023/01/robot.png" class="attachment-large size-large wp-image-65" alt="" loading="lazy" srcset="
-																			https://defiprosolutions.com/wp-content/uploads/2023/01/robot.png         534w,
-																			https://defiprosolutions.com/wp-content/uploads/2023/01/robot-235x300.png 235w
+																			./wp-content/uploads/2023/01/robot.png         534w,
+																			./wp-content/uploads/2023/01/robot-235x300.png 235w
 																		" sizes="(max-width: 534px) 100vw, 534px" />
                                                             </div>
                                                        </div>
@@ -66,7 +66,7 @@ include("header.php");
                                                                       SAFE
                                                                       INVESTMENT
                                                                       WITH
-                                                                      DEFI pros
+                                                                      smartintrest 
                                                                  </h2>
                                                             </div>
                                                        </div>
@@ -472,7 +472,7 @@ include("header.php");
                                                        <div class="elementor-element elementor-element-a727e69 elementor-invisible elementor-widget elementor-widget-text-editor" data-id="a727e69" data-element_type="widget" data-settings='{"_animation":"fadeInUp"}' data-widget_type="text-editor.default">
                                                             <div class="elementor-widget-container">
                                                                  <p>
-                                                                      DEFI pros
+                                                                      smartintrest 
                                                                       Investment
                                                                       has some
                                                                       flexible
@@ -497,7 +497,7 @@ include("header.php");
                                                                       company
                                                                       with our
                                                                       four
-                                                                      DEFI pros
+                                                                      smartintrest 
                                                                       Investment
                                                                       packages.
                                                                       Investors
@@ -693,7 +693,7 @@ include("header.php");
                                                                                                are
                                                                                                charged
                                                                                                by
-                                                                                               DEFI pros
+                                                                                               smartintrest 
                                                                                                for
                                                                                                the
                                                                                                platform
@@ -751,7 +751,7 @@ include("header.php");
                                                                                                of
                                                                                                the
                                                                                                entire
-                                                                                               DEFI pros
+                                                                                               smartintrest 
                                                                                                structure,
                                                                                                namely,
                                                                                                each
@@ -888,9 +888,9 @@ include("header.php");
                                                                                                                              <div class="elementor-element elementor-element-4acb615b elementor-widget elementor-widget-image" data-id="4acb615b" data-element_type="widget" data-widget_type="image.default">
                                                                                                                                   <div class="elementor-widget-container">
                                                                                                                                        <img width="800" height="400" src="wp-content/uploads/2023/01/1-1.png" class="attachment-large size-large wp-image-1122" alt="" loading="lazy" srcset="
-																																	https://defiprosolutions.com/wp-content/uploads/2023/01/1-1.png         800w,
-																																	https://defiprosolutions.com/wp-content/uploads/2023/01/1-1-300x150.png 300w,
-																																	https://defiprosolutions.com/wp-content/uploads/2023/01/1-1-768x384.png 768w
+																																	wp-content/uploads/2023/01/1-1.png         800w,
+																																	wp-content/uploads/2023/01/1-1-300x150.png 300w,
+																																	wp-content/uploads/2023/01/1-1-768x384.png 768w
 																																" sizes="(max-width: 800px) 100vw, 800px" />
                                                                                                                                   </div>
                                                                                                                              </div>
@@ -977,8 +977,8 @@ include("header.php");
                                                                                                                              <div class="elementor-element elementor-element-68338f50 elementor-widget elementor-widget-image" data-id="68338f50" data-element_type="widget" data-widget_type="image.default">
                                                                                                                                   <div class="elementor-widget-container">
                                                                                                                                        <img width="612" height="408" src="wp-content/uploads/2023/01/5.jpg" class="attachment-large size-large wp-image-1135" alt="" loading="lazy" srcset="
-																																	https://defiprosolutions.com//wp-content/uploads/2023/01/5.jpg         612w,
-																																	https://defiprosolutions.com/wp-content/uploads/2023/01/5-300x200.jpg 300w
+																																	wp-content/uploads/2023/01/5.jpg         612w,
+																																	wp-content/uploads/2023/01/5-300x200.jpg 300w
 																																" sizes="(max-width: 612px) 100vw, 612px" />
                                                                                                                                   </div>
                                                                                                                              </div>
@@ -1005,7 +1005,7 @@ include("header.php");
                                                                                                                                                                 first
                                                                                                                                                                 Infrastructure
                                                                                                                                                                 fund,
-                                                                                                                                                                DEFI pros
+                                                                                                                                                                smartintrest 
                                                                                                                                                                 Seventh
                                                                                                                                                                 largest
                                                                                                                                                                 segment
@@ -1065,8 +1065,8 @@ include("header.php");
                                                                                                                              <div class="elementor-element elementor-element-1ead71f3 elementor-widget elementor-widget-image" data-id="1ead71f3" data-element_type="widget" data-widget_type="image.default">
                                                                                                                                   <div class="elementor-widget-container">
                                                                                                                                        <img width="612" height="427" src="wp-content/uploads/2023/01/3.jpg" class="attachment-large size-large wp-image-1139" alt="" loading="lazy" srcset="
-																																	https://defiprosolutions.com/wp-content/uploads/2023/01/3.jpg         612w,
-																																	https://defiprosolutions.com/wp-content/uploads/2023/01/3-300x209.jpg 300w
+																																	wp-content/uploads/2023/01/3.jpg         612w,
+																																	wp-content/uploads/2023/01/3-300x209.jpg 300w
 																																" sizes="(max-width: 612px) 100vw, 612px" />
                                                                                                                                   </div>
                                                                                                                              </div>
@@ -1148,9 +1148,9 @@ include("header.php");
                                                                                                                              <div class="elementor-element elementor-element-6d20a645 elementor-widget elementor-widget-image" data-id="6d20a645" data-element_type="widget" data-widget_type="image.default">
                                                                                                                                   <div class="elementor-widget-container">
                                                                                                                                        <img width="801" height="537" src="wp-content/uploads/2023/01/4.png" class="attachment-large size-large wp-image-1144" alt="" loading="lazy" srcset="
-																																	https://defiprosolutions.com/wp-content/uploads/2023/01/4.png         801w,
-																																	https://defiprosolutions.com/uploads/2023/01/4-300x201.png 300w,
-																																	https://defiprosolutions.com/uploads/2023/01/4-768x515.png 768w
+																																	wp-content/uploads/2023/01/4.png         801w,
+																																	uploads/2023/01/4-300x201.png 300w,
+																																	uploads/2023/01/4-768x515.png 768w
 																																" sizes="(max-width: 801px) 100vw, 801px" />
                                                                                                                                   </div>
                                                                                                                              </div>
@@ -1229,11 +1229,11 @@ include("header.php");
                                                                                                                              <div class="elementor-element elementor-element-23e7424b elementor-widget elementor-widget-image" data-id="23e7424b" data-element_type="widget" data-widget_type="image.default">
                                                                                                                                   <div class="elementor-widget-container">
                                                                                                                                        <img width="1024" height="576" src="wp-content/uploads/2023/01/6-1024x576.jpg" class="attachment-large size-large wp-image-1148" alt="" loading="lazy" srcset="
-																																	https://defiprosolutions.com/wp-content/uploads/2023/01/6-1024x576.jpg 1024w,
-																																	https://defiprosolutions.com/wp-content/uploads/2023/01/6-300x169.jpg   300w,
-																																	https://defiprosolutions.com/wp-content/uploads/2023/01/6-768x432.jpg   768w,
-																																	https://defiprosolutions.com/wp-content/uploads/2023/01/6-800x450.jpg   800w,
-																																	https://defiprosolutions.com/wp-content/uploads/2023/01/6.jpg          1080w
+																																     wp-content/uploads/2023/01/6-1024x576.jpg 1024w,
+																																	wp-content/uploads/2023/01/6-300x169.jpg   300w,
+																																	wp-content/uploads/2023/01/6-768x432.jpg   768w,
+																																	wp-content/uploads/2023/01/6-800x450.jpg   800w,
+																																	wp-content/uploads/2023/01/6.jpg          1080w
 																																" sizes="(max-width: 1024px) 100vw, 1024px" />
                                                                                                                                   </div>
                                                                                                                              </div>
@@ -1344,7 +1344,7 @@ include("header.php");
                                                             <div class="elementor-widget-container">
                                                                  <h2 class="elementor-heading-title elementor-size-default">
                                                                       BEST
-                                                                      DEFI pros
+                                                                      smartintrest 
                                                                       TRADERS
                                                                  </h2>
                                                             </div>
@@ -1372,7 +1372,7 @@ include("header.php");
                                                                       them.
                                                                       They
                                                                       brought
-                                                                      DEFI pros
+                                                                      smartintrest 
                                                                       to the
                                                                       world
                                                                       level of
@@ -1397,7 +1397,7 @@ include("header.php");
                                                                                                     BOT
                                                                                                </h3>
                                                                                                <p class="elementor-image-box-description">
-                                                                                                    DEFI pros
+                                                                                                    smartintrest 
                                                                                                     team
                                                                                                     of
                                                                                                     professionals
@@ -1487,7 +1487,7 @@ include("header.php");
                                                                                                     The
                                                                                                     highly
                                                                                                     professional
-                                                                                                    DEFI pros
+                                                                                                    smartintrest 
                                                                                                     team
                                                                                                     controls
                                                                                                     all
@@ -1549,7 +1549,7 @@ include("header.php");
                                                                                                                                                       BOT
                                                                                                                                                  </h3>
                                                                                                                                                  <p class="elementor-image-box-description">
-                                                                                                                                                      DEFI pros
+                                                                                                                                                      smartintrest 
                                                                                                                                                       team
                                                                                                                                                       of
                                                                                                                                                       professionals
@@ -1748,7 +1748,8 @@ include("header.php");
                                              </div>
                                         </div>
                                    </section>
-                                   <section class="elementor-section elementor-top-section elementor-element elementor-element-ad1b4df elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="ad1b4df" data-element_type="section" data-settings='{"background_background":"classic"}'>
+                                   <!-- Documents -->
+                                   <!-- <section class="elementor-section elementor-top-section elementor-element elementor-element-ad1b4df elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="ad1b4df" data-element_type="section" data-settings='{"background_background":"classic"}'>
                                         <div class="elementor-container elementor-column-gap-default">
                                              <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6c2ee25" data-id="6c2ee25" data-element_type="column">
                                                   <div class="elementor-widget-wrap elementor-element-populated">
@@ -1785,9 +1786,9 @@ include("header.php");
                                                                            <div class="elementor-element elementor-element-f692869 elementor-widget elementor-widget-image" data-id="f692869" data-element_type="widget" data-widget_type="image.default">
                                                                                 <div class="elementor-widget-container">
                                                                                      <img decoding="async" width="692" height="1024" src="wp-includes/image/document.jpeg" class="attachment-large size-large wp-image-1232" alt="" loading="lazy" srcset="
-																							https://defiprosolutions.com/wp-includes/image/document.jpeg 692w,
-																							https://defiprosolutions.com/wp-includes/image/document.jpeg  203w,
-																							https://defiprosolutions.com/wp-includes/image/document.jpeg 730w
+																							./wp-includes/image/document.jpeg 692w,
+																							./wp-includes/image/document.jpeg  203w,
+																						     ./wp-includes/image/document.jpeg 730w
 																						" sizes="(max-width: 692px) 100vw, 692px" />
                                                                                 </div>
                                                                            </div>
@@ -1881,7 +1882,7 @@ include("header.php");
                                                                                                                
                                                                                                                
                                                                                                                
-                                                                                                               DEFI pros 
+                                                                                                               smartintrest 
                                                                                                               LTD<br /><span style="
 																												color: #ffffff;
 																											"><strong>Number: </strong></span>
@@ -1912,7 +1913,7 @@ include("header.php");
                                                                            </section>
                                                                       </div>
                                                                  </div>
-                                                                 <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-a715d64" data-id="a715d64" data-element_type="column">
+                                                                 <!-- <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-a715d64" data-id="a715d64" data-element_type="column">
                                                                       <div class="elementor-widget-wrap elementor-element-populated">
                                                                            <div class="elementor-element elementor-element-4950d0a elementor-widget elementor-widget-heading" data-id="4950d0a" data-element_type="widget" data-widget_type="heading.default">
                                                                                 <div class="elementor-widget-container">
@@ -1949,7 +1950,7 @@ include("header.php");
                                                                            <div class="elementor-element elementor-element-72be183 elementor-widget elementor-widget-text-editor" data-id="72be183" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                 <div class="elementor-widget-container">
                                                                                      <p>
-                                                                                          DEFI pros
+                                                                                          smartintrest 
                                                                                           is
                                                                                           registered
                                                                                           and
@@ -1993,13 +1994,14 @@ include("header.php");
                                                                                 </div>
                                                                            </div>
                                                                       </div>
-                                                                 </div>
+                                                                 </div> -->
                                                             </div>
                                                        </section>
                                                   </div>
                                              </div>
                                         </div>
-                                   </section>
+                                   <!-- </section>  -->
+
                                    <!-- testimony  -->
                                    <section class="elementor-section elementor-top-section elementor-element elementor-element-e262b18 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e262b18" data-element_type="section">
                                         <div class="elementor-container elementor-column-gap-default">
@@ -2377,7 +2379,7 @@ include("header.php");
                                                                       Bank.
                                                                       Through
                                                                       BlockCard,
-                                                                      DEFI pros
+                                                                      smartintrest 
                                                                       can have
                                                                       a
                                                                       virtual
@@ -2938,8 +2940,8 @@ include("header.php");
                                                        <div class="elementor-element elementor-element-fe284b7 elementor-widget elementor-widget-image" data-id="fe284b7" data-element_type="widget" data-widget_type="image.default">
                                                             <div class="elementor-widget-container">
                                                                  <img decoding="async" width="486" height="190" src="wp-content/uploads/2023/01/r2-removebg-preview.png" class="attachment-large size-large wp-image-289" alt="" loading="lazy" srcset="
-																			https://defiprosolutions.com/wp-content/uploads/2023/01/r2-removebg-preview.png         486w,
-																			https://defiprosolutions.com/wp-content/uploads/2023/01/r2-removebg-preview-300x117.png 300w
+																			./wp-content/uploads/2023/01/r2-removebg-preview.png         486w,
+																			./wp-content/uploads/2023/01/r2-removebg-preview-300x117.png 300w
 																		" sizes="(max-width: 486px) 100vw, 486px" />
                                                             </div>
                                                        </div>
@@ -2986,7 +2988,7 @@ include("header.php");
                                                                                                                                                       create
                                                                                                                                                       a
                                                                                                                                                       FREE
-                                                                                                                                                      DEFI pros
+                                                                                                                                                      smartintrest 
                                                                                                                                                       account
                                                                                                                                                       in
                                                                                                                                                       seconds
@@ -3161,7 +3163,7 @@ include("header.php");
                                                                                                     create
                                                                                                     a
                                                                                                     FREE
-                                                                                                    DEFI pros
+                                                                                                    smartintrest 
                                                                                                     account
                                                                                                     in
                                                                                                     seconds
@@ -3264,8 +3266,8 @@ include("header.php");
                                                        <div class="elementor-element elementor-element-55139e3 elementor-widget-mobile__width-initial elementor-widget elementor-widget-image" data-id="55139e3" data-element_type="widget" data-widget_type="image.default">
                                                             <div class="elementor-widget-container">
                                                                  <img decoding="async" width="600" height="233" src="wp-content/uploads/2023/01/r1-removebg-preview.png" class="attachment-large size-large wp-image-288" alt="" loading="lazy" srcset="
-																			https://defiprosolutions.com/wp-content/uploads/2023/01/r1-removebg-preview.png         600w,
-																			https://defiprosolutions.com/wp-content/uploads/2023/01/r1-removebg-preview-300x117.png 300w
+																			./wp-content/uploads/2023/01/r1-removebg-preview.png         600w,
+																		     ./wp-content/uploads/2023/01/r1-removebg-preview-300x117.png 300w
 																		" sizes="(max-width: 600px) 100vw, 600px" />
                                                             </div>
                                                        </div>
@@ -3302,7 +3304,7 @@ include("header.php");
                                                                            <div class="elementor-element elementor-element-a6eb3f8 elementor-invisible elementor-widget elementor-widget-text-editor" data-id="a6eb3f8" data-element_type="widget" data-settings='{"_animation":"fadeInUp"}' data-widget_type="text-editor.default">
                                                                                 <div class="elementor-widget-container">
                                                                                      <p>
-                                                                                          DEFI pros
+                                                                                          smartintrest 
                                                                                           is
                                                                                           registered
                                                                                           and
@@ -3408,9 +3410,9 @@ include("header.php");
                                                                            <div class="elementor-element elementor-element-a8296ed elementor-widget elementor-widget-image" data-id="a8296ed" data-element_type="widget" data-widget_type="image.default">
                                                                                 <div class="elementor-widget-container">
                                                                                      <img decoding="async" width="781" height="455" src="wp-content/uploads/2023/01/notebook.png" class="attachment-large size-large wp-image-59" alt="" loading="lazy" srcset="
-																							https://defiprosolutions.com/wp-content/uploads/2023/01/notebook.png         781w,
-																							https://defiprosolutions.com/wp-content/uploads/2023/01/notebook-300x175.png 300w,
-																							https://defiprosolutions.com/wp-content/uploads/2023/01/notebook-768x447.png 768w
+																							./wp-content/uploads/2023/01/notebook.png         781w,
+																							./wp-content/uploads/2023/01/notebook-300x175.png 300w,
+																							./wp-content/uploads/2023/01/notebook-768x447.png 768w
 																						" sizes="(max-width: 781px) 100vw, 781px" />
                                                                                 </div>
                                                                            </div>
@@ -3736,8 +3738,8 @@ include("header.php");
                                                        <div class="elementor-element elementor-element-728a703 elementor-widget elementor-widget-image" data-id="728a703" data-element_type="widget" data-widget_type="image.default">
                                                             <div class="elementor-widget-container">
                                                                  <img decoding="async" width="572" height="472" src="wp-content/uploads/2023/01/payment.png" class="attachment-large size-large wp-image-62" alt="" loading="lazy" srcset="
-																			https://defiprosolutions.com/wp-content/uploads/2023/01/payment.png         572w,
-																			https://defiprosolutions.com/wp-content/uploads/2023/01/payment-300x248.png 300w
+																			./wp-content/uploads/2023/01/payment.png         572w,
+																			./wp-content/uploads/2023/01/payment-300x248.png 300w
 																		" sizes="(max-width: 572px) 100vw, 572px" />
                                                             </div>
                                                        </div>
@@ -3764,7 +3766,7 @@ include("header.php");
                                                        <div class="elementor-element elementor-element-74bf028 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="74bf028" data-element_type="widget" data-widget_type="text-editor.default">
                                                             <div class="elementor-widget-container">
                                                                  <p>
-                                                                      DEFI pros
+                                                                      smartintrest 
                                                                       supports
                                                                       a big
                                                                       number

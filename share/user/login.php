@@ -102,7 +102,7 @@ include('header.php');
                     <div class="col-xl-5 col-lg-7">
                          <div class="account-card">
                               <div class="account-card__header bg_img overlay--one" data-background="https://creativewealth.ltd/share/assets/images/frontend/login/63c7a50ef15c31674028302.png">
-                                   <h2 class="section-title">Welcome To <span class="base--color">DEFI Pros</span></h2>
+                                   <h2 class="section-title">Welcome To <span class="base--color">Smartintrest</span></h2>
                                    <p>Please enter your details below to log in to your account</p>
                               </div>
                               <div class="account-card__body">

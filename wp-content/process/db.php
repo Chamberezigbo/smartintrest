@@ -3,7 +3,7 @@
 $dbHost = "localhost";
 $dbUser = "root";
 $dbPass = "";
-$dbName = "apa";
+$dbName = "crypto";
 
 // $dbHost = "localhost";
 // $dbUser = "airships_user1";

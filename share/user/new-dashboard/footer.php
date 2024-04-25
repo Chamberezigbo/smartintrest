@@ -17,7 +17,7 @@
           <div class="container">
                <div class="row">
                     <div class="col-md-6 text-md-left text-center">
-                         <p class="copy-right-text">&copy; 2023 <a href="../login.php" class="text--base">Defi Pros</a>. All Rights Reserved</p>
+                         <p class="copy-right-text">&copy; 2024 <a href="../login.php" class="text--base">smartintrest</a>. All Rights Reserved</p>
                     </div>
                     <!-- <div class="col-md-6">
                          <ul class="social-link-list d-flex flex-wrap justify-content-md-end justify-content-center">

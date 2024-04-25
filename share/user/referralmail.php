@@ -3,7 +3,7 @@
 
 <head>
      <title>
-          Defi Pros Solution | Your Trusted Bitcoin Mining Company | REFERRAL
+          Smartintrest Solution | Your Trusted Bitcoin Mining Company | REFERRAL
           LINK USED
      </title>
      <style>
@@ -29,7 +29,7 @@
 
 <body>
      <section class="border">
-          <img src="https://defiprosolutions.com/share/assets/images/logoIcon/logo.png" />
+          <img src="./share/assets/images/logoIcon/logo.png" />
           <!-- <span style="font-family: 'Unbounded', cursive;margin: 20px;font-weight: bold;margin-left: 10rem;margin-top: 3rem;">CHIPPER INVESTMENT</span> -->
           <hr style="width: 96%" />
 
@@ -42,8 +42,7 @@
                <p style="font-size: 15px; text-align: justify; line-height: 2">
                     ##someone## has made use of your referral link to sign up for our
                     platform. We are delighted to welcome them to our community,
-                    and we appreciate your help in spreading the word about Defi
-                    Pros Solution.
+                    and we appreciate your help in spreading the word about smartintrest Solution.
                </p>
 
                <p style="
@@ -52,14 +51,14 @@
                 text-align: justify;
                 line-height: 2;
             ">
-                    We hope you continue to enjoy using Defi Pros Solution, and
+                    We hope you continue to enjoy using Smartintrest Pros Solution, and
                     we look forward to seeing you grow your mining empire.
                </p>
 
                <hr style="color: rgba(255, 255, 255, 0.5); margin-top: 4rem" />
                <div style="text-align: center">
                     <p style="font-size: 10px">
-                         © 2023 Defi Pros Solution Team
+                         © 2024 smartintrest Solution Team
                     </p>
                </div>
           </div>

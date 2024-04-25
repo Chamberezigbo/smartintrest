@@ -4,7 +4,7 @@
                 <div class="row justify-content-center">
                      <div class="col-lg-12 text-center">
                           <!--<a href="https://creativewealth.ltd/share" class="site-logo"><img src="https://creativewealth.ltd/share/assets/images/logoIcon/logo_bit_gold.png" alt="image"></a>-->
-                          <a href="../index.html" class="logo"><img src="../assets/images/logoIcon/logo.png" alt="images"></a>
+                          <a href="../index.html" class="logo"><img src="../assets/images/logoIcon/logo.png"width="80" height="80" alt="images"></a>
 
                           <ul class="footer-short-menu d-flex flex-wrap justify-content-center mt-3">
                           </ul>
@@ -17,7 +17,7 @@
            <div class="container">
                 <div class="row">
                      <div class="col-md-6 text-md-left text-center">
-                          <p class="copy-right-text">&copy; 2023 <a href="../index.php" class="text--base">DEFI Pros</a>. All Rights Reserved</p>
+                          <p class="copy-right-text">&copy; 2024 <a href="../index.php" class="text--base">Smartintrest</a>. All Rights Reserved</p>
                      </div>
                      <div class="col-md-6">
                           <ul class="social-link-list d-flex flex-wrap justify-content-md-end justify-content-center">
@@ -56,7 +56,6 @@
 
 
  <script src="../assets/global/js/jquery-3.6.0.min.js"></script>
- <script src="../assets/global/js/bootstrap.bundle.min.js"></script>
 
  <!-- slick slider js -->
  <script src="../assets/templates/bit_gold/js/vendor/slick.min.js"></script>
@@ -200,6 +199,7 @@
 
  <script src="../../wp-content/process/octaValidate-PHP-main//frontend/helper.js"></script>
  <script src="../../wp-content/process/toastr-master/build/toastr.min.js"></script>
+ <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
  </body>
 

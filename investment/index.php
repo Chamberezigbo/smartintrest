@@ -62,7 +62,7 @@ include('header.php')
                                                                            font-size: 59px
                                                                       }
                                                                  </style>
-                                                                 <h2 class="elementor-heading-title elementor-size-default">RELIABLE INVESTMENT WITH DEFI Pros
+                                                                 <h2 class="elementor-heading-title elementor-size-default">RELIABLE INVESTMENT WITH smartintrest
                                                                  </h2>
                                                             </div>
                                                        </div>
@@ -114,7 +114,7 @@ include('header.php')
                                                                            display: inline-block
                                                                       }
                                                                  </style>
-                                                                 <p>DEFI Pros Wealth MARKETING PLAN</p>
+                                                                 <p>smartintrest Wealth MARKETING PLAN</p>
                                                             </div>
                                                        </div>
                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-ffdaf48 elementor-section-full_width elementor-hidden-tablet elementor-hidden-mobile elementor-section-height-default elementor-section-height-default" data-id="ffdaf48" data-element_type="section">
@@ -123,7 +123,7 @@ include('header.php')
                                                                       <div class="elementor-widget-wrap elementor-element-populated">
                                                                            <div class="elementor-element elementor-element-a8569c1 elementor-widget elementor-widget-text-editor" data-id="a8569c1" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                 <div class="elementor-widget-container">
-                                                                                     <p>DEFI Pros developers have created a unique cryptocurrency robot. It predicts the value of Bitcoin while generating daily profit on trades. The DEFI Pros robot is able to benefit at any stage of the market: both growth and decline.</p>
+                                                                                     <p>smartintrest developers have created a unique cryptocurrency robot. It predicts the value of Bitcoin while generating daily profit on trades. The smartintrest robot is able to benefit at any stage of the market: both growth and decline.</p>
                                                                                 </div>
                                                                            </div>
                                                                       </div>
@@ -132,7 +132,7 @@ include('header.php')
                                                                       <div class="elementor-widget-wrap elementor-element-populated">
                                                                            <div class="elementor-element elementor-element-e26712e elementor-widget elementor-widget-text-editor" data-id="e26712e" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                 <div class="elementor-widget-container">
-                                                                                     <p>DEFI Pros CFO has developed a unique marketing plan for the platform to function fully. The Investors of our company have an excellent opportunity to receive financial benefits on stable terms. You can also use the profitability calculator. It will calculate the exact return on your investment.</p>
+                                                                                     <p>smartintrest CFO has developed a unique marketing plan for the platform to function fully. The Investors of our company have an excellent opportunity to receive financial benefits on stable terms. You can also use the profitability calculator. It will calculate the exact return on your investment.</p>
                                                                                 </div>
                                                                            </div>
                                                                       </div>
@@ -145,7 +145,7 @@ include('header.php')
                                                                       <div class="elementor-widget-wrap elementor-element-populated">
                                                                            <div class="elementor-element elementor-element-a175d20 elementor-widget elementor-widget-text-editor" data-id="a175d20" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                 <div class="elementor-widget-container">
-                                                                                     <p>DEFI Pros developers have created a unique cryptocurrency robot. It predicts the value of Bitcoin while generating daily profit on trades. The DEFI Pros robot is able to benefit at any stage of the market: both growth and decline. DEFI Pros CFO has developed a unique marketing plan for the platform to function fully. The Investors of our company have an excellent opportunity to receive financial benefits on stable terms. You can also use the profitability calculator. It will calculate the exact return on your investment.</p>
+                                                                                     <p>Our developers have created a unique cryptocurrency robot. It predicts the value of Bitcoin while generating daily profit on trades. The smartintrest robot is able to benefit at any stage of the market: both growth and decline. smartintrest CFO has developed a unique marketing plan for the platform to function fully. The Investors of our company have an excellent opportunity to receive financial benefits on stable terms. You can also use the profitability calculator. It will calculate the exact return on your investment.</p>
                                                                                 </div>
                                                                            </div>
                                                                       </div>
@@ -289,7 +289,7 @@ include('header.php')
                                                        </div>
                                                        <div class="elementor-element elementor-element-89808de elementor-widget elementor-widget-text-editor" data-id="89808de" data-element_type="widget" data-widget_type="text-editor.default">
                                                             <div class="elementor-widget-container">
-                                                                 <p>DEFI Pros employees ensures that every investor in our company can earn money.</p>
+                                                                 <p>smartintrest employees ensures that every investor in our company can earn money.</p>
                                                             </div>
                                                        </div>
                                                   </div>
@@ -311,7 +311,7 @@ include('header.php')
                                                                            </div>
                                                                            <div class="elementor-element elementor-element-87f4324 elementor-widget elementor-widget-text-editor" data-id="87f4324" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                 <div class="elementor-widget-container">
-                                                                                     <p>These commissions are charged by DEFI Pros  for the platform to work. They are not related to the profit received by our investors</p>
+                                                                                     <p>These commissions are charged by  for the platform to work. They are not related to the profit received by our investors</p>
                                                                                 </div>
                                                                            </div>
                                                                       </div>
@@ -331,7 +331,7 @@ include('header.php')
                                                                            </div>
                                                                            <div class="elementor-element elementor-element-cc7bd5d elementor-widget elementor-widget-text-editor" data-id="cc7bd5d" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                 <div class="elementor-widget-container">
-                                                                                     <p><span style="color: #69e2b0;">0.5%</span> from the received profit by the robot. This commission shows the earnings of the entire DEFI Pros structure, namely, each employee.</p>
+                                                                                     <p><span style="color: #69e2b0;">0.5%</span> from the received profit by the robot. This commission shows the earnings of the entire structure, namely, each employee.</p>
                                                                                 </div>
                                                                            </div>
                                                                            <div class="elementor-element elementor-element-decb39c elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="decb39c" data-element_type="widget" data-widget_type="icon-list.default">
@@ -417,7 +417,7 @@ include('header.php')
                                                                                                                                        <div class="elementor-image-box-wrapper">
                                                                                                                                             <div class="elementor-image-box-content">
                                                                                                                                                  <h3 class="elementor-image-box-title">REGISTRATION</h3>
-                                                                                                                                                 <p class="elementor-image-box-description">Click the Register button. Fill in your details to create a FREE DEFI Pros account in seconds
+                                                                                                                                                 <p class="elementor-image-box-description">Click the Register button. Fill in your details to create a FREE account in seconds
                                                                                                                                                  </p>
                                                                                                                                             </div>
                                                                                                                                        </div>
@@ -598,7 +598,7 @@ include('header.php')
                                                                                      <div class="elementor-image-box-wrapper">
                                                                                           <div class="elementor-image-box-content">
                                                                                                <h3 class="elementor-image-box-title">REGISTRATION</h3>
-                                                                                               <p class="elementor-image-box-description">Click the Register button. Fill in your details to create a FREE DEFI Pros account in seconds
+                                                                                               <p class="elementor-image-box-description">Click the Register button. Fill in your details to create a FREE account in seconds
                                                                                                </p>
                                                                                           </div>
                                                                                      </div>
@@ -678,7 +678,7 @@ include('header.php')
                                                                       <div class="elementor-widget-wrap elementor-element-populated">
                                                                            <div class="elementor-element elementor-element-04ab75c elementor-widget elementor-widget-text-editor" data-id="04ab75c" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                 <div class="elementor-widget-container">
-                                                                                     <p>DEFI Pros robot is a unique trading tool for getting profit at the stages of growth and fall of the cryptocurrency market. Operations are managed without user intervention. The work of the robot is fully automated and cannot include usage errors.</p>
+                                                                                     <p>Our robot is a unique trading tool for getting profit at the stages of growth and fall of the cryptocurrency market. Operations are managed without user intervention. The work of the robot is fully automated and cannot include usage errors.</p>
                                                                                 </div>
                                                                            </div>
                                                                       </div>
@@ -687,7 +687,7 @@ include('header.php')
                                                                       <div class="elementor-widget-wrap elementor-element-populated">
                                                                            <div class="elementor-element elementor-element-749e120 elementor-widget elementor-widget-text-editor" data-id="749e120" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                 <div class="elementor-widget-container">
-                                                                                     <p>The robot generates the Bitcoin exchange rate, thereby benefiting the company. The main condition for cooperation with DEFI Pros is the availability of an active deposit to obtain an investment profit in the future.</p>
+                                                                                     <p>The robot generates the Bitcoin exchange rate, thereby benefiting the company. The main condition for cooperation with smartintrest is the availability of an active deposit to obtain an investment profit in the future.</p>
                                                                                 </div>
                                                                            </div>
                                                                       </div>
@@ -712,13 +712,13 @@ include('header.php')
                                                        </div>
                                                        <div class="elementor-element elementor-element-52232ef elementor-invisible elementor-widget elementor-widget-heading" data-id="52232ef" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="heading.default">
                                                             <div class="elementor-widget-container">
-                                                                 <h2 class="elementor-heading-title elementor-size-default">BEST DEFI Pros TRADERS
+                                                                 <h2 class="elementor-heading-title elementor-size-default">BEST TRADERS
                                                                  </h2>
                                                             </div>
                                                        </div>
                                                        <div class="elementor-element elementor-element-7bb610f elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-text-editor" data-id="7bb610f" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="text-editor.default">
                                                             <div class="elementor-widget-container">
-                                                                 <p>The best cryptocurrency developers works in our company. They have a wealth of experience and understanding of the crypto market behind them. They brought DEFI Pros to the world level of development</p>
+                                                                 <p>The best cryptocurrency developers works in our company. They have a wealth of experience and understanding of the crypto market behind them. They brought smartintrest to the world level of development</p>
                                                             </div>
                                                        </div>
                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-4c0282c elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4c0282c" data-element_type="section">
@@ -731,7 +731,7 @@ include('header.php')
                                                                                           <figure class="elementor-image-box-img"><img decoding="async" width="258" height="192" src="../wp-content/uploads/2023/01/1.png" class="attachment-full size-full wp-image-14" alt="" loading="lazy" /></figure>
                                                                                           <div class="elementor-image-box-content">
                                                                                                <h3 class="elementor-image-box-title">UNIQUE TRADING BOT</h3>
-                                                                                               <p class="elementor-image-box-description">DEFI Pros team of professionals has created a unique trading robot that makes profit at any stage of the market: rise or fall
+                                                                                               <p class="elementor-image-box-description">Our team of professionals has created a unique trading robot that makes profit at any stage of the market: rise or fall
                                                                                                </p>
                                                                                           </div>
                                                                                      </div>
@@ -763,7 +763,7 @@ include('header.php')
                                                                                           <figure class="elementor-image-box-img"><img decoding="async" width="258" height="217" src="../wp-content/uploads/2023/01/3.png" class="attachment-full size-full wp-image-16" alt="" loading="lazy" /></figure>
                                                                                           <div class="elementor-image-box-content">
                                                                                                <h3 class="elementor-image-box-title">THE EXPERTS WILL DO EVERYTHING FOR YOU</h3>
-                                                                                               <p class="elementor-image-box-description">The highly professional DEFI Pros team controls all the processes of the trading robot around the clock. After investing, you will observe the growth of your capital in real time</p>
+                                                                                               <p class="elementor-image-box-description">The highly professional team controls all the processes of the trading robot around the clock. After investing, you will observe the growth of your capital in real time</p>
                                                                                           </div>
                                                                                      </div>
                                                                                 </div>
@@ -792,7 +792,7 @@ include('header.php')
                                                                                                                                             <figure class="elementor-image-box-img"><img width="258" height="192" src="../wp-content/uploads/2023/01/1.png" class="attachment-full size-full wp-image-14" alt="" loading="lazy" /></figure>
                                                                                                                                             <div class="elementor-image-box-content">
                                                                                                                                                  <h3 class="elementor-image-box-title">UNIQUE TRADING BOT</h3>
-                                                                                                                                                 <p class="elementor-image-box-description">DEFI Pros team of professionals has created a unique trading robot that makes profit at any stage of the market: rise or fall
+                                                                                                                                                 <p class="elementor-image-box-description">Our team of professionals has created a unique trading robot that makes profit at any stage of the market: rise or fall
                                                                                                                                                  </p>
                                                                                                                                             </div>
                                                                                                                                        </div>
@@ -934,7 +934,7 @@ include('header.php')
                                                        </div>
                                                        <div class="elementor-element elementor-element-28e978a elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="28e978a" data-element_type="widget" data-widget_type="text-editor.default">
                                                             <div class="elementor-widget-container">
-                                                                 <p>DEFI Pros supports a big number of payment systems</p>
+                                                                 <p>We supports a big number of payment systems</p>
                                                             </div>
                                                        </div>
                                                        <div class="elementor-element elementor-element-ac618b7 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="ac618b7" data-element_type="widget" data-widget_type="text-editor.default">

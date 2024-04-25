@@ -223,31 +223,33 @@ include('header.php');
                                                                                      </style>
                                                                                      <div class="elementor-toggle" role="tablist">
                                                                                           <div class="elementor-toggle-item">
-                                                                                               <div id="elementor-tab-title-1771" class="elementor-tab-title" data-tab="1" role="tab" aria-controls="elementor-tab-content-1771" aria-expanded="false">
-                                                                                                    <span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
-                                                                                                         <span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
-                                                                                                         <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
-                                                                                                    </span>
-                                                                                                    <a href="#" class="elementor-toggle-title">WHAT IS DEFI PROS?</a>
-                                                                                               </div>
+                                                                                            <div id="elementor-tab-title-1771" class="elementor-tab-title" data-tab="1" role="tab" aria-controls="custome-elementor-toggle-content" aria-expanded="false">
+                                                                                                <span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+                                                                                                    <span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
+                                                                                                    <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
+                                                                                                </span>
+                                                                                                <a href="#custome-elementor-toggle-content" class="elementor-toggle-title">WHAT IS smartintrest?</a>
+                                                                                            </div>
+                                                                                            
+                                                                                            <div id="custome-elementor-toggle-content" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-1771">
+                                                                                                <p>smartintrest is a Professional team of cryptocurrency industry developers. The main advantage of the company is a unique trading bot that makes a profit at the stage of growth and market decline.</p>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                        <div class="elementor-toggle-item">
+                                                                                            <div id="elementor-tab-title-1772" class="elementor-tab-title" data-tab="2" role="tab" aria-controls="custome-elementor-toggle-content" aria-expanded="false">
+                                                                                                <span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+                                                                                                    <span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
+                                                                                                    <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
+                                                                                                </span>
+                                                                                                <a href="#custome-elementor-toggle-content" class="elementor-toggle-title">IS smartintrest AN OFFICIALLY REGISTERED COMPANY?</a>
+                                                                                            </div>
+                                                                                            
+                                                                                            <div id="custome-elementor-toggle-content" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-1772">
+                                                                                                <p>Yes, we are legally binding and officially registered in the UK under the company registration number #13307564</p>
+                                                                                            </div>
+                                                                                        </div>
 
-                                                                                               <div id="elementor-tab-content-1771" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-1771">
-                                                                                                    <p>DEFI pros is a Professional team of cryptocurrency industry developers. The main advantage of the company is a unique trading bot that makes a profit at the stage of growth and market decline.</p>
-                                                                                               </div>
-                                                                                          </div>
-                                                                                          <div class="elementor-toggle-item">
-                                                                                               <div id="elementor-tab-title-1772" class="elementor-tab-title" data-tab="2" role="tab" aria-controls="elementor-tab-content-1772" aria-expanded="false">
-                                                                                                    <span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
-                                                                                                         <span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
-                                                                                                         <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
-                                                                                                    </span>
-                                                                                                    <a href="#" class="elementor-toggle-title">IS DEFI PROS AN OFFICIALLY REGISTERED COMPANY?</a>
-                                                                                               </div>
 
-                                                                                               <div id="elementor-tab-content-1772" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-1772">
-                                                                                                    <p>Yes, we are legally binding and officially registered in the UK under the company registration number #13307564</p>
-                                                                                               </div>
-                                                                                          </div>
                                                                                      </div>
                                                                                 </div>
                                                                            </div>
@@ -303,10 +305,10 @@ include('header.php');
                                                                                                          <span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
                                                                                                          <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
                                                                                                     </span>
-                                                                                                    <a href="#" class="elementor-toggle-title">HOW MANY ACCOUNTS CAN I OPEN?</a>
+                                                                                                    <a href="#custome-elementor-toggle-content" class="elementor-toggle-title">HOW MANY ACCOUNTS CAN I OPEN?</a>
                                                                                                </div>
 
-                                                                                               <div id="elementor-tab-content-8311" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-8311">
+                                                                                               <div id="custome-elementor-toggle-content" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-8311">
                                                                                                     <p>Each user can only open and manage one account. Please follow this rule. In case of violation the company has the right to block all your accounts without a refund.</p>
                                                                                                </div>
                                                                                           </div>
@@ -316,10 +318,10 @@ include('header.php');
                                                                                                          <span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
                                                                                                          <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
                                                                                                     </span>
-                                                                                                    <a href="#" class="elementor-toggle-title">HOW TO UPLOAD PERSONAL DATA?</a>
+                                                                                                    <a href="#custome-elementor-toggle-content" class="elementor-toggle-title">HOW TO UPLOAD PERSONAL DATA?</a>
                                                                                                </div>
 
-                                                                                               <div id="elementor-tab-content-8312" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-8312">
+                                                                                               <div id="custome-elementor-toggle-content" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-8312">
                                                                                                     <p>Please note that we do not require your personal information. To work with our platform, you need to specify your login, your email, come up with a password, and also specify the wallet number to which funds will be withdrawn from the platform.</p>
                                                                                                </div>
                                                                                           </div>
@@ -329,10 +331,10 @@ include('header.php');
                                                                                                          <span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
                                                                                                          <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
                                                                                                     </span>
-                                                                                                    <a href="#" class="elementor-toggle-title">HOW MUCH DOES IT COST TO OPEN AN ACCOUNT?</a>
+                                                                                                    <a href="#custome-elementor-toggle-content" class="elementor-toggle-title">HOW MUCH DOES IT COST TO OPEN AN ACCOUNT?</a>
                                                                                                </div>
 
-                                                                                               <div id="elementor-tab-content-8313" class="elementor-tab-content elementor-clearfix" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-8313">
+                                                                                               <div id="custome-elementor-toggle-content" class="elementor-tab-content elementor-clearfix" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-8313">
                                                                                                     <p>Opening an account is absolutely free. We do not charge you any hidden fees or service charges. The commission on operations and additional costs is included in the company&#8217;s profits from the profits from the development of cryptocurrency robots.</p>
                                                                                                     <p> </p>
                                                                                                </div>
@@ -343,10 +345,10 @@ include('header.php');
                                                                                                          <span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
                                                                                                          <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
                                                                                                     </span>
-                                                                                                    <a href="#" class="elementor-toggle-title">CAN I REGISTER MY CHILD?</a>
+                                                                                                    <a href="#custome-elementor-toggle-content" class="elementor-toggle-title">CAN I REGISTER MY CHILD?</a>
                                                                                                </div>
 
-                                                                                               <div id="elementor-tab-content-8314" class="elementor-tab-content elementor-clearfix" data-tab="4" role="tabpanel" aria-labelledby="elementor-tab-title-8314">
+                                                                                               <div id="custome-elementor-toggle-content" class="elementor-tab-content elementor-clearfix" data-tab="4" role="tabpanel" aria-labelledby="elementor-tab-title-8314">
                                                                                                     <p>Any person who has reached the age of majority in their country of residence can register</p>
                                                                                                </div>
                                                                                           </div>
@@ -356,10 +358,10 @@ include('header.php');
                                                                                                          <span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
                                                                                                          <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
                                                                                                     </span>
-                                                                                                    <a href="#" class="elementor-toggle-title">CAN I LOSE MY FUNDS BY INVESTING IN YOUR COMPANY?</a>
+                                                                                                    <a href="#custome-elementor-toggle-content" class="elementor-toggle-title">CAN I LOSE MY FUNDS BY INVESTING IN YOUR COMPANY?</a>
                                                                                                </div>
 
-                                                                                               <div id="elementor-tab-content-8315" class="elementor-tab-content elementor-clearfix" data-tab="5" role="tabpanel" aria-labelledby="elementor-tab-title-8315">
+                                                                                               <div id="custome-elementor-toggle-content" class="elementor-tab-content elementor-clearfix" data-tab="5" role="tabpanel" aria-labelledby="elementor-tab-title-8315">
                                                                                                     <p>Your investment, as well as your loyalty, are our core values. We will work hard to preserve your funds, reduce the risk of loss to zero, and we will do our best to multiply your funds.</p>
                                                                                                </div>
                                                                                           </div>
@@ -369,10 +371,10 @@ include('header.php');
                                                                                                          <span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
                                                                                                          <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
                                                                                                     </span>
-                                                                                                    <a href="#" class="elementor-toggle-title">WHAT DOES THE COMPANY DO WITH USERS' PERSONAL DATA?</a>
+                                                                                                    <a href="#custome-elementor-toggle-content" class="elementor-toggle-title">WHAT DOES THE COMPANY DO WITH USERS' PERSONAL DATA?</a>
                                                                                                </div>
 
-                                                                                               <div id="elementor-tab-content-8316" class="elementor-tab-content elementor-clearfix" data-tab="6" role="tabpanel" aria-labelledby="elementor-tab-title-8316">
+                                                                                               <div id="custome-elementor-toggle-content" class="elementor-tab-content elementor-clearfix" data-tab="6" role="tabpanel" aria-labelledby="elementor-tab-title-8316">
                                                                                                     <p>We collect your personal information only for internal use. This data will not be passed to third parties under any circumstances.</p>
                                                                                                </div>
                                                                                           </div>
@@ -382,10 +384,10 @@ include('header.php');
                                                                                                          <span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
                                                                                                          <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
                                                                                                     </span>
-                                                                                                    <a href="#" class="elementor-toggle-title">CAN I BE SURE THAT MY DATA IS SECURE?</a>
+                                                                                                    <a href="#custome-elementor-toggle-content" class="elementor-toggle-title">CAN I BE SURE THAT MY DATA IS SECURE?</a>
                                                                                                </div>
 
-                                                                                               <div id="elementor-tab-content-8317" class="elementor-tab-content elementor-clearfix" data-tab="7" role="tabpanel" aria-labelledby="elementor-tab-title-8317">
+                                                                                               <div id="custome-elementor-toggle-content" class="elementor-tab-content elementor-clearfix" data-tab="7" role="tabpanel" aria-labelledby="elementor-tab-title-8317">
                                                                                                     <p>We guarantee your privacy and secured. The site is protected from complex DDoS attacks by multi-layered protection. Any transmitted data is SSL encrypted. We have high quality SSL certificates.</p>
                                                                                                </div>
                                                                                           </div>
@@ -395,10 +397,10 @@ include('header.php');
                                                                                                          <span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
                                                                                                          <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
                                                                                                     </span>
-                                                                                                    <a href="#" class="elementor-toggle-title">WHAT TO DO IF I CAN NOT REGISTER?</a>
+                                                                                                    <a href="#custome-elementor-toggle-content" class="elementor-toggle-title">WHAT TO DO IF I CAN NOT REGISTER?</a>
                                                                                                </div>
 
-                                                                                               <div id="elementor-tab-content-8318" class="elementor-tab-content elementor-clearfix" data-tab="8" role="tabpanel" aria-labelledby="elementor-tab-title-8318">
+                                                                                               <div id="custome-elementor-toggle-content" class="elementor-tab-content elementor-clearfix" data-tab="8" role="tabpanel" aria-labelledby="elementor-tab-title-8318">
                                                                                                     <p>Make sure that the input data is, such as e-mail, password and login, no spaces. If everything is ok, but registration still fails, please contact online support.</p>
                                                                                                </div>
                                                                                           </div>
@@ -408,10 +410,10 @@ include('header.php');
                                                                                                          <span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
                                                                                                          <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
                                                                                                     </span>
-                                                                                                    <a href="#" class="elementor-toggle-title">HOW TO BECOME AN INVESTOR?</a>
+                                                                                                    <a href="#custome-elementor-toggle-content" class="elementor-toggle-title">HOW TO BECOME AN INVESTOR?</a>
                                                                                                </div>
 
-                                                                                               <div id="elementor-tab-content-8319" class="elementor-tab-content elementor-clearfix" data-tab="9" role="tabpanel" aria-labelledby="elementor-tab-title-8319">
+                                                                                               <div id="custome-elementor-toggle-content" class="elementor-tab-content elementor-clearfix" data-tab="9" role="tabpanel" aria-labelledby="elementor-tab-title-8319">
                                                                                                     <p>3 steps to get started with our company<br />1. REGISTRATION BUTTON<br />Click the Register button. Enter your details to quickly create a FREE Fintro Funds account.<br />2. OPEN A DEPOSIT<br />We offer different investment plans. You need to choose a plan that suits your financial goals. Make a deposit after reading.<br />3. START EARNING<br />After depositing, watch your capital grow by accumulating daily profit in real time.</p>
                                                                                                </div>
                                                                                           </div>
@@ -470,10 +472,10 @@ include('header.php');
                                                                                                          <span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
                                                                                                          <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
                                                                                                     </span>
-                                                                                                    <a href="#" class="elementor-toggle-title">TELL DETAILS HOW TO OPEN A DEPOSIT IN YOUR SYSTEM?</a>
+                                                                                                    <a href="#custome-elementor-toggle-content" class="elementor-toggle-title">TELL DETAILS HOW TO OPEN A DEPOSIT IN YOUR SYSTEM?</a>
                                                                                                </div>
 
-                                                                                               <div id="elementor-tab-content-1081" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-1081">
+                                                                                               <div id="custome-elementor-toggle-content" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-1081">
                                                                                                     <p>Using the username and password you entered during registration, log into your account. Click the &#8220;Create Deposit&#8221; button. Choose the tariff plan that suits you and enter the amount you plan to invest. After confirming the amount and choosing an electronic payment system, you will be redirected to the electronic payment system. Follow her instructions to pay for the transaction. Then you will be redirected back to your Personal Account again. Funds will be credited automatically to the previously selected investment plan.</p>
                                                                                                </div>
                                                                                           </div>
@@ -483,10 +485,10 @@ include('header.php');
                                                                                                          <span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
                                                                                                          <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
                                                                                                     </span>
-                                                                                                    <a href="#" class="elementor-toggle-title">WHAT PAYMENT METHODS CAN I USE TO DEPOSIT?</a>
+                                                                                                    <a href="#custome-elementor-toggle-content" class="elementor-toggle-title">WHAT PAYMENT METHODS CAN I USE TO DEPOSIT?</a>
                                                                                                </div>
 
-                                                                                               <div id="elementor-tab-content-1082" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-1082">
+                                                                                               <div id="custome-elementor-toggle-content" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-1082">
                                                                                                     <p>We work with payment systems PerfectMoney, BitCoin, Ethereum, LiteCoin, DogeCoin, TRON, Tether TRC20, Tether ERC20</p>
                                                                                                </div>
                                                                                           </div>
@@ -496,10 +498,10 @@ include('header.php');
                                                                                                          <span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
                                                                                                          <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
                                                                                                     </span>
-                                                                                                    <a href="#" class="elementor-toggle-title">ARE THERE ANY INVESTMENT LIMITS?</a>
+                                                                                                    <a href="#custome-elementor-toggle-content" class="elementor-toggle-title">ARE THERE ANY INVESTMENT LIMITS?</a>
                                                                                                </div>
 
-                                                                                               <div id="elementor-tab-content-1083" class="elementor-tab-content elementor-clearfix" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-1083">
+                                                                                               <div id="custome-elementor-toggle-content" class="elementor-tab-content elementor-clearfix" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-1083">
                                                                                                     <p>Investments are processed in strict accordance with the terms of the tariff plan.</p>
                                                                                                </div>
                                                                                           </div>
@@ -509,10 +511,10 @@ include('header.php');
                                                                                                          <span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
                                                                                                          <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
                                                                                                     </span>
-                                                                                                    <a href="#" class="elementor-toggle-title">IS IT POSSIBLE TO INCREASE THE AMOUNT OF THE WORKING DEPOSIT?</a>
+                                                                                                    <a href="#custome-elementor-toggle-content" class="elementor-toggle-title">IS IT POSSIBLE TO INCREASE THE AMOUNT OF THE WORKING DEPOSIT?</a>
                                                                                                </div>
 
-                                                                                               <div id="elementor-tab-content-1084" class="elementor-tab-content elementor-clearfix" data-tab="4" role="tabpanel" aria-labelledby="elementor-tab-title-1084">
+                                                                                               <div id="custome-elementor-toggle-content" class="elementor-tab-content elementor-clearfix" data-tab="4" role="tabpanel" aria-labelledby="elementor-tab-title-1084">
                                                                                                     <p>No, you cannot increase the amount of a deposit that has already been created. However, you can create other unlimited deposits.</p>
                                                                                                </div>
                                                                                           </div>
@@ -522,10 +524,10 @@ include('header.php');
                                                                                                          <span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
                                                                                                          <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
                                                                                                     </span>
-                                                                                                    <a href="#" class="elementor-toggle-title">CAN I MAKE MULTIPLE DEPOSITS AT THE SAME TIME?</a>
+                                                                                                    <a href="#custome-elementor-toggle-content" class="elementor-toggle-title">CAN I MAKE MULTIPLE DEPOSITS AT THE SAME TIME?</a>
                                                                                                </div>
 
-                                                                                               <div id="elementor-tab-content-1085" class="elementor-tab-content elementor-clearfix" data-tab="5" role="tabpanel" aria-labelledby="elementor-tab-title-1085">
+                                                                                               <div id="custome-elementor-toggle-content" class="elementor-tab-content elementor-clearfix" data-tab="5" role="tabpanel" aria-labelledby="elementor-tab-title-1085">
                                                                                                     <p>Yes, you can have an unlimited number of deposits, and you can also invest in different tariff plans at the same time.</p>
                                                                                                </div>
                                                                                           </div>
@@ -584,10 +586,10 @@ include('header.php');
                                                                                                          <span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
                                                                                                          <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
                                                                                                     </span>
-                                                                                                    <a href="#" class="elementor-toggle-title">HOW OFTEN WILL I RECEIVE ACCRUALS ON MY DEPOSITS?</a>
+                                                                                                    <a href="#custome-elementor-toggle-content" class="elementor-toggle-title">HOW OFTEN WILL I RECEIVE ACCRUALS ON MY DEPOSITS?</a>
                                                                                                </div>
 
-                                                                                               <div id="elementor-tab-content-1141" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-1141">
+                                                                                               <div id="custome-elementor-toggle-content" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-1141">
                                                                                                     <p>Interest on deposits is accrued in accordance with the terms of the investment plan. The countdown starts from the moment you open a deposit in the system.</p>
                                                                                                </div>
                                                                                           </div>
@@ -597,10 +599,10 @@ include('header.php');
                                                                                                          <span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
                                                                                                          <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
                                                                                                     </span>
-                                                                                                    <a href="#" class="elementor-toggle-title">HOW LONG DOES IT TAKE TO PROCESS A WITHDRAWAL REQUEST?</a>
+                                                                                                    <a href="#custome-elementor-toggle-content" class="elementor-toggle-title">HOW LONG DOES IT TAKE TO PROCESS A WITHDRAWAL REQUEST?</a>
                                                                                                </div>
 
-                                                                                               <div id="elementor-tab-content-1142" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-1142">
+                                                                                               <div id="custome-elementor-toggle-content" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-1142">
                                                                                                     <p>Withdrawal requests will be processed instantly. For payment systems PerfectMoney, &#8211; funds reach the wallet instantly, after ordering the payment in your account. Waiting time for funds to a wallet for payment systems BitCoin, Ethereum, LiteCoin, DogeCoin, TRON, Tether TRC20, Tether ERC20 &#8211; At least 3 network confirmations are required and this can take from 20 minutes to several hours.</p>
                                                                                                </div>
                                                                                           </div>
@@ -610,10 +612,10 @@ include('header.php');
                                                                                                          <span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
                                                                                                          <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
                                                                                                     </span>
-                                                                                                    <a href="#" class="elementor-toggle-title">WHAT IS THE WITHDRAWAL OF FUNDS FROM A PERSONAL WALLET?</a>
+                                                                                                    <a href="#custome-elementor-toggle-content" class="elementor-toggle-title">WHAT IS THE WITHDRAWAL OF FUNDS FROM A PERSONAL WALLET?</a>
                                                                                                </div>
 
-                                                                                               <div id="elementor-tab-content-1143" class="elementor-tab-content elementor-clearfix" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-1143">
+                                                                                               <div id="custome-elementor-toggle-content" class="elementor-tab-content elementor-clearfix" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-1143">
                                                                                                     <p>Before withdrawing funds, be sure to check if you have indicated the correct address of your payment wallet to which you will be withdrawing. If you have not registered a wallet, do it by going to the &#8220;Wallets&#8221; section of your account. In the same section you can always edit your payment details.<br />After you have made sure that the entered data is correct, you need to go to the &#8216;Withdrawal&#8217; section located in your investor&#8217;s personal account, select the payment system to which you want to withdraw, enter the withdrawal amount and click the withdrawal button funds</p>
                                                                                                </div>
                                                                                           </div>
@@ -623,10 +625,10 @@ include('header.php');
                                                                                                          <span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
                                                                                                          <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
                                                                                                     </span>
-                                                                                                    <a href="#" class="elementor-toggle-title">HOW DO I FIND MY ACCOUNT TRANSACTION HISTORY?</a>
+                                                                                                    <a href="#custome-elementor-toggle-content" class="elementor-toggle-title">HOW DO I FIND MY ACCOUNT TRANSACTION HISTORY?</a>
                                                                                                </div>
 
-                                                                                               <div id="elementor-tab-content-1144" class="elementor-tab-content elementor-clearfix" data-tab="4" role="tabpanel" aria-labelledby="elementor-tab-title-1144">
+                                                                                               <div id="custome-elementor-toggle-content" class="elementor-tab-content elementor-clearfix" data-tab="4" role="tabpanel" aria-labelledby="elementor-tab-title-1144">
                                                                                                     <p>Go to the investor&#8217;s panel, select &#8216;Transactions&#8217; from the menu and there you will see the history of account deposits, incomes and withdrawals.</p>
                                                                                                </div>
                                                                                           </div>
@@ -636,10 +638,10 @@ include('header.php');
                                                                                                          <span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
                                                                                                          <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
                                                                                                     </span>
-                                                                                                    <a href="#" class="elementor-toggle-title">WHAT TO DO IF I CANNOT WITHDRAW THE FUNDS? THE SYSTEM CONSTANTLY PRODUCES AN ERROR.</a>
+                                                                                                    <a href="#custome-elementor-toggle-content" class="elementor-toggle-title">WHAT TO DO IF I CANNOT WITHDRAW THE FUNDS? THE SYSTEM CONSTANTLY PRODUCES AN ERROR.</a>
                                                                                                </div>
 
-                                                                                               <div id="elementor-tab-content-1145" class="elementor-tab-content elementor-clearfix" data-tab="5" role="tabpanel" aria-labelledby="elementor-tab-title-1145">
+                                                                                               <div id="custome-elementor-toggle-content" class="elementor-tab-content elementor-clearfix" data-tab="5" role="tabpanel" aria-labelledby="elementor-tab-title-1145">
                                                                                                     <p>If the wallet is registered correctly, the amount is entered correctly and corresponds to the one that is available for withdrawal, but the payment is still rejected by the system, check the correspondence between the currency requested for withdrawal and the electronic payment system selected for payment. If you have a withdrawable dollar amount in the TETHER USDT electronic payment system, you will not be able to withdraw Bitcoin to this wallet.</p>
                                                                                                </div>
                                                                                           </div>
@@ -698,10 +700,10 @@ include('header.php');
                                                                                                          <span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
                                                                                                          <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
                                                                                                     </span>
-                                                                                                    <a href="#" class="elementor-toggle-title">DO YOU OFFER A REFERRAL PROGRAM?</a>
+                                                                                                    <a href="#custome-elementor-toggle-content" class="elementor-toggle-title">DO YOU OFFER A REFERRAL PROGRAM?</a>
                                                                                                </div>
 
-                                                                                               <div id="elementor-tab-content-9231" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-9231">
+                                                                                               <div id="custome-elementor-toggle-content" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-9231">
                                                                                                     <p>We offer an affiliate program for additional income for our investors. Anyone can take part in the development of the company by inviting new members and receiving a generous reward for this.</p>
                                                                                                </div>
                                                                                           </div>
@@ -711,11 +713,11 @@ include('header.php');
                                                                                                          <span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
                                                                                                          <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
                                                                                                     </span>
-                                                                                                    <a href="#" class="elementor-toggle-title">HOW DOES THE AFFILIATE PROGRAM WORK?</a>
+                                                                                                    <a href="#custome-elementor-toggle-content" class="elementor-toggle-title">HOW DOES THE AFFILIATE PROGRAM WORK?</a>
                                                                                                </div>
 
-                                                                                               <div id="elementor-tab-content-9232" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-9232">
-                                                                                                    <p>DEFI pros offers a unique investment and referral program that rewards you not only for partners who came from you to the platform, but also for partners from levels 2,3 and 4. This unique affiliate program brings you passive referral income. First, you earn by inviting friends to DEFI Pros, and then you earn when people in your structure refer new investors to the company. Affiliate system level: 7% &#8211; 3% &#8211; 2% &#8211; 1%</p>
+                                                                                               <div id="custome-elementor-toggle-content" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-9232">
+                                                                                                    <p>We offers a unique investment and referral program that rewards you not only for partners who came from you to the platform, but also for partners from levels 2,3 and 4. This unique affiliate program brings you passive referral income. First, you earn by inviting friends to smartintrest, and then you earn when people in your structure refer new investors to the company. Affiliate system level: 7% &#8211; 3% &#8211; 2% &#8211; 1%</p>
                                                                                                </div>
                                                                                           </div>
                                                                                           <div class="elementor-toggle-item">
@@ -724,11 +726,11 @@ include('header.php');
                                                                                                          <span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
                                                                                                          <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
                                                                                                     </span>
-                                                                                                    <a href="#" class="elementor-toggle-title">DO I NEED TO INVEST IN ORDER TO PARTICIPATE IN THE AFFILIATE PROGRAM?</a>
+                                                                                                    <a href="#custome-elementor-toggle-content" class="elementor-toggle-title">DO I NEED TO INVEST IN ORDER TO PARTICIPATE IN THE AFFILIATE PROGRAM?</a>
                                                                                                </div>
 
-                                                                                               <div id="elementor-tab-content-9233" class="elementor-tab-content elementor-clearfix" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-9233">
-                                                                                                    <p>You do not need to apply for participation, own an industry web resource with a large audience of investors or meet other abstract requirements to participate in the referral program. We assign each user a unique referral link immediately after registration, which you can already use to attract other investors, simply by inviting them to the DEFI pros website using the referral link.</p>
+                                                                                               <div id="custome-elementor-toggle-content" class="elementor-tab-content elementor-clearfix" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-9233">
+                                                                                                    <p>You do not need to apply for participation, own an industry web resource with a large audience of investors or meet other abstract requirements to participate in the referral program. We assign each user a unique referral link immediately after registration, which you can already use to attract other investors, simply by inviting them to the smartintrest website using the referral link.</p>
                                                                                                     <p> </p>
                                                                                                </div>
                                                                                           </div>
@@ -738,10 +740,10 @@ include('header.php');
                                                                                                          <span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
                                                                                                          <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
                                                                                                     </span>
-                                                                                                    <a href="#" class="elementor-toggle-title">DO YOU PROVIDE ADVERTISING MATERIALS?</a>
+                                                                                                    <a href="#custome-elementor-toggle-content" class="elementor-toggle-title">DO YOU PROVIDE ADVERTISING MATERIALS?</a>
                                                                                                </div>
 
-                                                                                               <div id="elementor-tab-content-9234" class="elementor-tab-content elementor-clearfix" data-tab="4" role="tabpanel" aria-labelledby="elementor-tab-title-9234">
+                                                                                               <div id="custome-elementor-toggle-content" class="elementor-tab-content elementor-clearfix" data-tab="4" role="tabpanel" aria-labelledby="elementor-tab-title-9234">
                                                                                                     <p>Yes, we have prepared a number of effective banners in various formats for partners that fit harmoniously into any site. You can find them in your personal account</p>
                                                                                                </div>
                                                                                           </div>
@@ -800,7 +802,7 @@ include('header.php');
                                                                                                          <span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
                                                                                                          <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
                                                                                                     </span>
-                                                                                                    <a href="#" class="elementor-toggle-title">HOW TO BE IF I DIDN'T FIND ANSWER TO MY QUESTION?</a>
+                                                                                                    <a href="#custome-elementor-toggle-content" class="elementor-toggle-title">HOW TO BE IF I DIDN'T FIND ANSWER TO MY QUESTION?</a>
                                                                                                </div>
 
                                                                                                <div id="elementor-tab-content-2601" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-2601">
@@ -813,11 +815,11 @@ include('header.php');
                                                                                                          <span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
                                                                                                          <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
                                                                                                     </span>
-                                                                                                    <a href="#" class="elementor-toggle-title">WHAT TO DO IF I FORGOT MY PASSWORD?</a>
+                                                                                                    <a href="custome-elementor-toggle-content" class="elementor-toggle-title">WHAT TO DO IF I FORGOT MY PASSWORD?</a>
                                                                                                </div>
 
                                                                                                <div id="elementor-tab-content-2602" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-2602">
-                                                                                                    <p>Click on the reset password link on the main page of the site in the login section. Enter your username and email address and follow the instructions. You will receive information on how to reset your DEFI pros account password.</p>
+                                                                                                    <p>Click on the reset password link on the main page of the site in the login section. Enter your username and email address and follow the instructions. You will receive information on how to reset your smartintrest account password.</p>
                                                                                                </div>
                                                                                           </div>
                                                                                      </div>
@@ -850,4 +852,33 @@ include('header.php');
 
 
 </main><!-- #main -->
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const toggleTitles = document.querySelectorAll(".elementor-toggle-title");
+
+    toggleTitles.forEach(function(toggleTitle) {
+        toggleTitle.addEventListener("click", function(event) {
+            event.preventDefault();
+
+            const parentToggleItem = this.closest(".elementor-toggle-item");
+            const parentToggleContent = parentToggleItem.querySelector(".elementor-tab-content");
+
+            if (parentToggleContent) {
+                const isOpen = parentToggleItem.getAttribute("aria-expanded") === "true";
+
+                // Toggle aria-expanded attribute
+                parentToggleItem.setAttribute("aria-expanded", !isOpen);
+
+                // Toggle content visibility
+                parentToggleContent.style.display = isOpen ? "none" : "block";
+
+                // Toggle icon
+                const toggleIcon = parentToggleItem.querySelector(".elementor-toggle-icon");
+                toggleIcon.classList.toggle("elementor-toggle-icon-opened");
+            }
+        });
+    });
+});
+
+</script>
 <?php include('footer.php');

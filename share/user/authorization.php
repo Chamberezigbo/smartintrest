@@ -587,7 +587,7 @@ include('header.php');
      }
 </style>
 <!-- inner hero start -->
-<section class="inner-hero bg_img" data-background="https://creativewealth.ltd/share/assets/images/frontend/breadcrumb/63c7a2144362f1674027540.png" style="background-image: url(&quot;https://creativewealth.ltd/share/assets/images/frontend/breadcrumb/63c7a2144362f1674027540.png&quot;);">
+<section class="inner-hero bg_img" data-background="./share/assets/images/frontend/breadcrumb/63c7a2144362f1674027540.png" style="background-image: url(&quot;./share/assets/images/frontend/breadcrumb/63c7a2144362f1674027540.png&quot;);">
      <div class="container">
           <div class="row">
                <div class="col-lg-6">

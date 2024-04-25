@@ -28,7 +28,7 @@ include('header.php');
                                         <h4 class="package-card__title base--color mb-2"><?= $result['package_name'] ?></h4>
 
                                         <ul class="package-card__features mt-4">
-                                             <li>Return 1.50%
+                                             <li>Return <?= $result['min_return'] ?>
                                              </li>
 
                                              <!-- <li>
@@ -37,7 +37,7 @@ include('header.php');
                                              <li><?= $result['duration'] ?>
                                              </li>
                                              <li>
-                                                  Total 10.5%
+                                                  Total <?= $result['max_return'] ?>
                                                   +
                                                   <span class="badge badge--success">Capital</span>
                                              </li>

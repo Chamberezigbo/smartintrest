@@ -4,7 +4,7 @@
 DEFINE('DB_HOST', 'localhost');
 DEFINE('DB_USER', 'root');
 DEFINE('DB_PASS', '');
-DEFINE('DB_NAME', 'defi');
+DEFINE('DB_NAME', 'crypto');
 
 class DatabaseClass
 {

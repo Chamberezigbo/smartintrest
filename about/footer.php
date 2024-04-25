@@ -229,7 +229,7 @@
                                                   <div class="elementor-widget-wrap elementor-element-populated">
                                                        <div class="elementor-element elementor-element-6dce124 elementor-widget elementor-widget-text-editor" data-id="6dce124" data-element_type="widget" data-widget_type="text-editor.default">
                                                             <div class="elementor-widget-container">
-                                                                 <p>© Copyright, 2023 Defi Pros . All Rights Reserved</p>
+                                                                 <p>© Copyright, 2024 Smartintrest . All Rights Reserved</p>
                                                             </div>
                                                        </div>
                                                   </div>
@@ -538,7 +538,7 @@
 </div>
 
 <!-- whatsapp number -->
-<div class="joinchat joinchat--left joinchat--btn" data-settings='{"telephone":"+447495078172","mobile_only":false,"button_delay":3,"whatsapp_web":false,"qr":false,"message_views":2,"message_delay":10,"message_badge":false,"message_send":"","message_hash":""}'>
+<div class="joinchat joinchat--left joinchat--btn" data-settings='{"telephone":"+447775766210","mobile_only":false,"button_delay":3,"whatsapp_web":false,"qr":false,"message_views":2,"message_delay":10,"message_badge":false,"message_send":"","message_hash":""}'>
      <div class="joinchat__button">
           <div class="joinchat__button__open"></div>
      </div>
@@ -941,6 +941,7 @@
           updateNumbers();
      }, 10000); // 60000 milliseconds = 1 minute
 </script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
 <!-- Mirrored from creativewealth.ltd/about/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 11 May 2023 11:47:10 GMT -->

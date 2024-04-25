@@ -62,7 +62,7 @@ include('header.php');
                                                                            font-size: 59px
                                                                       }
                                                                  </style>
-                                                                 <h2 class="elementor-heading-title elementor-size-default">RELIABLE INVESTMENT WITH DEFI pros
+                                                                 <h2 class="elementor-heading-title elementor-size-default">RELIABLE INVESTMENT WITH Smartintrest
                                                                  </h2>
                                                             </div>
                                                        </div>
@@ -114,7 +114,7 @@ include('header.php');
                                                                            display: inline-block
                                                                       }
                                                                  </style>
-                                                                 <p>Defipros &#8211; PROFESSIONAL TEAM<br />CRYPTO INDUSTRY DEVELOPERS</p>
+                                                                 <p>Smartintrest &#8211; PROFESSIONAL TEAM<br />CRYPTO INDUSTRY DEVELOPERS</p>
                                                             </div>
                                                        </div>
                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-648b7f8 elementor-section-full_width elementor-hidden-tablet elementor-hidden-mobile elementor-section-height-default elementor-section-height-default" data-id="648b7f8" data-element_type="section">
@@ -123,7 +123,7 @@ include('header.php');
                                                                       <div class="elementor-widget-wrap elementor-element-populated">
                                                                            <div class="elementor-element elementor-element-f760767 elementor-widget elementor-widget-text-editor" data-id="f760767" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                 <div class="elementor-widget-container">
-                                                                                     <p>Our company has been developing stable cryptocurrency income for 6 years. Today Defipros employees are leaders in the field of IT technologies. They have created a unique robot that generates daily profit and guesses the steps of the Bitcoin value. That is why the DEFI pros  is able to benefit at any stage of the market: both growth and decline. This development is unique in that it is the first in the world. Today, not many people know about this. That is why they are given</p>
+                                                                                     <p>Our company has been developing stable cryptocurrency income for 6 years. Today our employees are leaders in the field of IT technologies. They have created a unique robot that generates daily profit and guesses the steps of the Bitcoin value. That is why the company  is able to benefit at any stage of the market: both growth and decline. This development is unique in that it is the first in the world. Today, not many people know about this. That is why they are given</p>
                                                                                 </div>
                                                                            </div>
                                                                       </div>
@@ -132,8 +132,8 @@ include('header.php');
                                                                       <div class="elementor-widget-wrap elementor-element-populated">
                                                                            <div class="elementor-element elementor-element-8cd4a39 elementor-widget elementor-widget-text-editor" data-id="8cd4a39" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                 <div class="elementor-widget-container">
-                                                                                     <p>the chance to receive a stable income for the rest of their lives. Many people will try to fake it in fraudulent ways after the platform is known around the world. But we assure that only our company DEFI pros unique.</p>
-                                                                                     <p><span style="color: #ffffff;"><a style="color: #ffffff;" href="mailto:Support@defipros.com">Support@defipros.com</a></span></p>
+                                                                                     <p>the chance to receive a stable income for the rest of their lives. Many people will try to fake it in fraudulent ways after the platform is known around the world. But we assure that only our company Smartintrest unique.</p>
+                                                                                     <p><span style="color: #ffffff;"><a style="color: #ffffff;" href="mailto:Support@smartintrest.com">Support@smartintrest.com</a></span></p>
                                                                                 </div>
                                                                            </div>
                                                                       </div>
@@ -146,8 +146,8 @@ include('header.php');
                                                                       <div class="elementor-widget-wrap elementor-element-populated">
                                                                            <div class="elementor-element elementor-element-1fcd384 elementor-hidden-desktop elementor-widget elementor-widget-text-editor" data-id="1fcd384" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                 <div class="elementor-widget-container">
-                                                                                     <p>Our company has been developing stable cryptocurrency income for 6 years. Today DEFI pros  employees are leaders in the field of IT technologies. They have created a unique robot that generates daily profit and guesses the steps of the Bitcoin value. That is why the DEFI pros  is able to benefit at any stage of the market: both growth and decline. This development is unique in that it is the first in the world. Today, not many people know about this. That is why they are given the chance to receive a stable income for the rest of their lives. Many people will try to fake it in fraudulent ways after the platform is known around the world. But we assure that only our company DEFI pros unique.</p>
-                                                                                     <p><span style="color: #ffffff;"><a style="color: #ffffff;" href="mailto:Support@defipros.com">Support@defipros.com</a></span></p>
+                                                                                     <p>Our company has been developing stable cryptocurrency income for 6 years. Today smartintrest  employees are leaders in the field of IT technologies. They have created a unique robot that generates daily profit and guesses the steps of the Bitcoin value. That is why the company is able to benefit at any stage of the market: both growth and decline. This development is unique in that it is the first in the world. Today, not many people know about this. That is why they are given the chance to receive a stable income for the rest of their lives. Many people will try to fake it in fraudulent ways after the platform is known around the world. But we assure that only our company unique.</p>
+                                                                                     <p><span style="color: #ffffff;"><a style="color: #ffffff;" href="mailto:Support@smartintrest.com">Support@smartintrest.com</a></span></p>
                                                                                 </div>
                                                                            </div>
                                                                       </div>
@@ -168,7 +168,7 @@ include('header.php');
                                                                       <div class="elementor-widget-wrap elementor-element-populated">
                                                                            <div class="elementor-element elementor-element-cc28bc9 elementor-widget elementor-widget-image" data-id="cc28bc9" data-element_type="widget" data-widget_type="image.default">
                                                                                 <div class="elementor-widget-container">
-                                                                                     <img decoding="async" width="692" height="1024" src="../wp-includes/image/document.jpeg" class="attachment-large size-large wp-image-1232" alt="" loading="lazy" srcset="https://defiprosolutions.com/wp-includes/image/document.jpeg 692w, https://defiprosolutions.com/wp-includes/image/document.jpeg 203w, https://defiprosolutions.com/wp-includes/image/document.jpeg 730w" sizes="(max-width: 692px) 100vw, 692px" />
+                                                                                     <img decoding="async" width="692" height="1024" src="../wp-includes/image/document.jpeg" class="attachment-large size-large wp-image-1232" alt="" loading="lazy" srcset="./wp-includes/image/document.jpeg 692w, ./wp-includes/image/document.jpeg 203w, ./wp-includes/image/document.jpeg 730w" sizes="(max-width: 692px) 100vw, 692px" />
                                                                                 </div>
                                                                            </div>
                                                                            <section class="elementor-section elementor-inner-section elementor-element elementor-element-1b3244c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1b3244c" data-element_type="section">
@@ -177,7 +177,7 @@ include('header.php');
                                                                                           <div class="elementor-widget-wrap elementor-element-populated">
                                                                                                <div class="elementor-element elementor-element-18bea10 elementor-widget elementor-widget-text-editor" data-id="18bea10" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                                     <div class="elementor-widget-container">
-                                                                                                         <p><strong><span style="color: #ffffff;">Reg name:</span></strong>                 DEFI pros<br /><span style="color: #ffffff;"><strong>Number: </strong></span>                  <span style="color: #69e2b0;"><a style="color: #69e2b0;" href="https://find-and-update.company-information.service.gov.uk/search?q=06734692"> #13307564</a></span><br /><span style="color: #ffffff;"><strong>Official address:</strong></span>  6 South street,London,England, W1K5QF</p>
+                                                                                                         <p><strong><span style="color: #ffffff;">Reg name:</span></strong>                 smartintrest<br /><span style="color: #ffffff;"><strong>Number: </strong></span>                  <span style="color: #69e2b0;"><a style="color: #69e2b0;" href="https://find-and-update.company-information.service.gov.uk/search?q=06734692"> #13307564</a></span><br /><span style="color: #ffffff;"><strong>Official address:</strong></span>  6 South street,London,England, W1K5QF</p>
                                                                                                     </div>
                                                                                                </div>
                                                                                           </div>
@@ -331,7 +331,7 @@ include('header.php');
                                                                            </div>
                                                                            <div class="elementor-element elementor-element-cb3b0c7 elementor-widget elementor-widget-heading" data-id="cb3b0c7" data-element_type="widget" data-widget_type="heading.default">
                                                                                 <div class="elementor-widget-container">
-                                                                                     <h2 class="elementor-heading-title elementor-size-default">DEFI PROS - UK LEGAL REGISTRATION <span style="color: #69E2B0">13307564</span>
+                                                                                     <h2 class="elementor-heading-title elementor-size-default">Smartintrest - UK LEGAL REGISTRATION <span style="color: #69E2B0">13307564</span>
                                                                                      </h2>
                                                                                 </div>
                                                                            </div>
@@ -354,7 +354,7 @@ include('header.php');
                                                   <div class="elementor-widget-wrap elementor-element-populated">
                                                        <div class="elementor-element elementor-element-5cef4c9 elementor-widget elementor-widget-heading" data-id="5cef4c9" data-element_type="widget" data-widget_type="heading.default">
                                                             <div class="elementor-widget-container">
-                                                                 <h2 class="elementor-heading-title elementor-size-default">DEFI PROS STATS
+                                                                 <h2 class="elementor-heading-title elementor-size-default">Smartintrest STATS
                                                                  </h2>
                                                             </div>
                                                        </div>
@@ -364,7 +364,7 @@ include('header.php');
                                                                       <div class="elementor-widget-wrap elementor-element-populated">
                                                                            <div class="elementor-element elementor-element-d97e172 elementor-widget elementor-widget-text-editor" data-id="d97e172" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                 <div class="elementor-widget-container">
-                                                                                     <p>Here are online statistics of our company. Competent distribution of investments in the DEFI pros robot allows you to maximize profits at all stages of the market. Gradual development is a guarantee of world recognition</p>
+                                                                                     <p>Here are online statistics of our company. Competent distribution of investments in the company robot allows you to maximize profits at all stages of the market. Gradual development is a guarantee of world recognition</p>
                                                                                 </div>
                                                                            </div>
                                                                       </div>
@@ -373,7 +373,7 @@ include('header.php');
                                                                       <div class="elementor-widget-wrap elementor-element-populated">
                                                                            <div class="elementor-element elementor-element-4770c46 elementor-widget elementor-widget-text-editor" data-id="4770c46" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                 <div class="elementor-widget-container">
-                                                                                     <p>in the market. It is important for us to ensure the protection of our investors, as well as the stability and uninterrupted operation of the platform. The DEFI pros robot is fully automated to operate without user intervention.</p>
+                                                                                     <p>in the market. It is important for us to ensure the protection of our investors, as well as the stability and uninterrupted operation of the platform. The smartintrest robot is fully automated to operate without user intervention.</p>
                                                                                 </div>
                                                                            </div>
                                                                       </div>
@@ -386,7 +386,7 @@ include('header.php');
                                                                       <div class="elementor-widget-wrap elementor-element-populated">
                                                                            <div class="elementor-element elementor-element-2dc3173 elementor-widget elementor-widget-text-editor" data-id="2dc3173" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                 <div class="elementor-widget-container">
-                                                                                     <p>Here are online statistics of our company. Competent distribution of investments in the DEFI pros robot allows you to maximize profits at all stages of the market. Gradual development is a guarantee of world recognition in the market. It is important for us to ensure the protection of our investors, as well as the stability and uninterrupted operation of the platform. The DEFI pros Wealth robot is fully automated to operate without user intervention.</p>
+                                                                                     <p>Here are online statistics of our company. Competent distribution of investments in the Smartintrest robot allows you to maximize profits at all stages of the market. Gradual development is a guarantee of world recognition in the market. It is important for us to ensure the protection of our investors, as well as the stability and uninterrupted operation of the platform. The Smartintrest Wealth robot is fully automated to operate without user intervention.</p>
                                                                                 </div>
                                                                            </div>
                                                                       </div>
@@ -1037,7 +1037,7 @@ include('header.php');
                                                        </div>
                                                        <div class="elementor-element elementor-element-d78dabe elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="d78dabe" data-element_type="widget" data-widget_type="text-editor.default">
                                                             <div class="elementor-widget-container">
-                                                                 <p>DEFI pros supports a big number of payment systems</p>
+                                                                 <p>smartintrest supports a big number of payment systems</p>
                                                             </div>
                                                        </div>
                                                        <div class="elementor-element elementor-element-9737384 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="9737384" data-element_type="widget" data-widget_type="text-editor.default">
