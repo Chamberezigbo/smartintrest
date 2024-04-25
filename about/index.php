@@ -158,7 +158,7 @@ include('header.php');
                                              </div>
                                         </div>
                                    </section>
-                                   <section class="elementor-section elementor-top-section elementor-element elementor-element-4d91e0b elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="4d91e0b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                   <!-- <section class="elementor-section elementor-top-section elementor-element elementor-element-4d91e0b elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="4d91e0b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                                         <div class="elementor-container elementor-column-gap-default">
                                              <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-53b6d3e" data-id="53b6d3e" data-element_type="column">
                                                   <div class="elementor-widget-wrap elementor-element-populated">
@@ -347,7 +347,7 @@ include('header.php');
                                                   </div>
                                              </div>
                                         </div>
-                                   </section>
+                                   </section> -->
                                    <section class="elementor-section elementor-top-section elementor-element elementor-element-c4db7a2 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="c4db7a2" data-element_type="section">
                                         <div class="elementor-container elementor-column-gap-default">
                                              <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9645af7" data-id="9645af7" data-element_type="column">
